@@ -1,0 +1,5 @@
+{
+  "name": "Persian Subtitle Translator",
+  "description": "An application to translate English subtitle files (.srt) into informal, colloquial Persian with Persian numerals using the Gemini API.",
+  "requestFramePermissions": []
+}
